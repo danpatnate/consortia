@@ -14,6 +14,7 @@ Clone this repository at: https://github.com/danpatnate/consortia.git
 
 ```bash
 npm i && PORT=3001 node bin/www
+(open new terminal window then continue)
 cd client/ npm i
 yarn start
 ```
