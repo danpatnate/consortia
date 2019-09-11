@@ -1,0 +1,58 @@
+{
+	"cols": [
+		"Name",
+		"Phone",
+		"Email",
+		"About"
+	],
+	"data": [
+    {
+      "key": 1,
+      "name": "Randstad Technologies",
+      "email": "rand@tech.com",
+      "region": "Ohio",
+			"logo": "https://media.licdn.com/dms/image/C4E0BAQFLT1e8ZZOWEA/company-logo_400_400/0?e=1576108800&v=beta&t=1IcaBvULyQHyASpuk303-DXz69hMguS5eA43WFZhu7k",
+			"status": "Accepted"
+    },
+		{
+      "key": 2,
+      "name": "Procore",
+      "email": "procore@procore.com",
+			"region": "Ohio",
+			"logo": "https://media.licdn.com/dms/image/C560BAQFAyWm6hy089A/company-logo_400_400/0?e=1576108800&v=beta&t=LAN7m-aYMO_T7j4B7_tqtKPwYEccBM1WQGqukXlOH2Y",
+			"status": "Accepted"
+    },
+		{
+      "key": 3,
+      "name": "h2 Wellness",
+      "email": "h2@h2wellness.com",
+			"region": "Ohio",
+			"logo": "https://media.licdn.com/dms/image/C4D0BAQHciVnEy3KpHw/company-logo_400_400/0?e=1576108800&v=beta&t=RbAQVLLN6kvc4EuF1i5t_R4t-NMreNis1efJxeSQbDA",
+			"status": "Pending approval"
+    },
+		{
+      "key": 4,
+      "name": "Leaf Group",
+      "email": "leaf@leafgroup.com",
+			"region": "Ohio",
+			"logo": "https://media.licdn.com/dms/image/C560BAQE_qAfJMk9yNA/company-logo_400_400/0?e=1576108800&v=beta&t=cmpOt0nN9sGMm04JreQx2010pqAJT5s0p9TDjgyxTEs",
+			"status": "Pending approval"
+    },
+		{
+      "key": 5,
+      "name": "Connectivity",
+      "email": "admin@connectivity.com",
+			"region": "Ohio",
+			"logo": "https://media.licdn.com/dms/image/C4E0BAQE4Q7e_T-31ag/company-logo_400_400/0?e=1576108800&v=beta&t=tdLwoXN6EzZG0JaL_nlZdmfwS-wciWIgvQ4ktbkp6w8",
+			"status": "Accepted"
+    },
+		{
+      "key": 6,
+      "name": "Accenture",
+      "email": "acn@tech.com",
+			"region": "Ohio",
+			"logo": "https://media.licdn.com/dms/image/C560BAQE-_wzVy9cxKA/company-logo_400_400/0?e=1576108800&v=beta&t=N_2ziWDtf4LnbBUzbWaNlWTRJKCGu5THBrNYP9d5yqE",
+			"status": "Accepted"
+    }
+  ]
+}

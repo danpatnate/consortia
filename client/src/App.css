@@ -1,0 +1,130 @@
+.App, .block {
+  text-align: center;
+  color: #FFF;
+  padding: 80px;
+}
+
+h1 {
+  color: #FFF;
+}
+
+.tagline {
+  color: #EE34A8;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.tagline--minor {
+  color: #FFF;
+  font-size: 20px;
+}
+
+p {
+  text-align: left;
+}
+
+.actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.options {
+  margin: 25px 0;
+}
+
+.block, .reviews {
+  background-color: #FFF;
+  margin: 0 12%;
+  border-radius: 7px;
+  color: #000;
+}
+
+.block--cards {
+  display: inline-block;
+}
+
+.reviews {
+  padding: 30px;
+}
+
+.reviews--tagline {
+  color: #C86DD7;
+}
+
+.benefit {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  overflow: hidden;
+  line-height: 160px;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #3842c1;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.page--sub-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.user {
+  display: flex;
+  margin: 10px;
+}
+
+.user__avatar {
+  margin-right: 15px;
+}
+
+.user__details {
+  display: flex;
+  justify-content: space-between;
+  width: 100%
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.button {
+  cursor: pointer;
+  border-radius: 9999rem;
+  display: inline-block;
+  font-size: 1rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  padding: .75rem 1.5rem;
+  transition: all .3s;
+}
+
+.button--blue {
+  background: #51C2FA;
+  border: 2px solid #51C2FA;
+  color: #fff;
+}
