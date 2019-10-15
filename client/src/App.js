@@ -8,6 +8,9 @@ import CompaniesContainer from './containers/CompaniesContainer';
 import UsersContainer from './containers/UsersContainer';
 import './App.css';
 
+
+// Comments are good
+
 const Home = () => (
   <div className="App">
     <h1>Welcome to Our Consortia of Resources</h1>
